@@ -30,7 +30,7 @@
 * [Widget](component.md)
 * [Filter](filter.md)
 * [Type Converter](duplex-parser.md)
-* [Form validation](duplex-validate.md)
+* [Form Validation](duplex-validate.md)
 * [Config](config.md)
 * [Mobile Support](mobile.md)
 * [FAQ](questions.md)
