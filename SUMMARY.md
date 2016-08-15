@@ -33,7 +33,7 @@
 * [Form validation](duplex-validate.md)
 * [Config](config.md)
 * [移动端支持](mobile.md)
-* [常见问题](questions.md)
+* [FAQ](questions.md)
 * [与jQuery混用](jquery.md)
 * [API](api.md)
 * [更新日志](log.md)
