@@ -32,7 +32,7 @@
 * [Type Converter](duplex-parser.md)
 * [Form validation](duplex-validate.md)
 * [Config](config.md)
-* [移动端支持](mobile.md)
+* [Mobile Support](mobile.md)
 * [FAQ](questions.md)
 * [与jQuery混用](jquery.md)
 * [API](api.md)
