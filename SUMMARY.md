@@ -34,7 +34,7 @@
 * [Config](config.md)
 * [Mobile Support](mobile.md)
 * [FAQ](questions.md)
-* [与jQuery混用](jquery.md)
+* [Work with jQuery](jquery.md)
 * [API](api.md)
 * [更新日志](log.md)
 
