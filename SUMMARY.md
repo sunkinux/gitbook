@@ -36,5 +36,5 @@
 * [FAQ](questions.md)
 * [Work with jQuery](jquery.md)
 * [API](api.md)
-* [更新日志](log.md)
+* [Update Log](log.md)
 
