@@ -29,7 +29,7 @@
    * [Custom component](custom-tag.md)
 * [Widget](component.md)
 * [Filter](filter.md)
-* [类型转换器](duplex-parser.md)
+* [Type Converter](duplex-parser.md)
 * [表单验证](duplex-validate.md)
 * [配置](config.md)
 * [移动端支持](mobile.md)
