@@ -1,7 +1,7 @@
 # Summary
 
 * [Title Page](README.md)
-* [介绍](home.md)
+* [Introduction](home.md)
    * [who](who.md)
    * [vm](vm.md)
    * [虚拟DOM](virtualdom.md)
