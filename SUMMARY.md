@@ -27,7 +27,7 @@
    * [ms-effect](directives/ms-effect.md)
    * [ms-widget](directives/ms-widget.md)
    * [Custom component](custom-tag.md)
-* [组件](component.md)
+* [Widget](component.md)
 * [过滤器](filter.md)
 * [类型转换器](duplex-parser.md)
 * [表单验证](duplex-validate.md)
