@@ -30,7 +30,7 @@
 * [Widget](component.md)
 * [Filter](filter.md)
 * [Type Converter](duplex-parser.md)
-* [Form validati o n](duplex-validate.md)
+* [Form validation](duplex-validate.md)
 * [配置](config.md)
 * [移动端支持](mobile.md)
 * [常见问题](questions.md)
