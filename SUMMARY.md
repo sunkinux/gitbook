@@ -26,7 +26,7 @@
    * [ms-validate](directives/ms-validate.md)
    * [ms-effect](directives/ms-effect.md)
    * [ms-widget](directives/ms-widget.md)
-   * [Custom自定义标签](custom-tag.md)
+   * [Custom component](custom-tag.md)
 * [组件](component.md)
 * [过滤器](filter.md)
 * [类型转换器](duplex-parser.md)
